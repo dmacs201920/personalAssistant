@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include"header.h"
+#include"aheader.h"
 void main()
 {
     int opt;

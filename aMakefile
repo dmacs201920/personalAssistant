@@ -1,0 +1,6 @@
+contact:amain.o afunction.o
+	gcc -g -o $@  amain.o afunction.o	
+main.o:amain.c aheader.h
+	gcc -c -g amain.c
+afunction.o:afunction.c
+	gcc -c -g afunction.c
