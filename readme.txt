@@ -1,9 +1,7 @@
-# personalAssistant.3bsc
-novice project implementing a personal Assistant. Implementation is very basic
 PERSONAL ASSISTANT
 PRESENTED BY:
-REGD.NO                         NAME                             WORKDONE
-171205                      VISWANADH                        EVERNOTE.
+REGD.NO                         NAME                             WORK_DONE
+171205                      VISWANADH                        TOO_DO LIST.
 173218                      APPALA NARASSAYAA                CALENDER.
 173229                      AKHIL                            CONTACT MANAGMENT.
 DESCRIPTION:
