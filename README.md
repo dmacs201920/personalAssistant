@@ -1,11 +1,7 @@
 # personalAssistant.3bsc
 novice project implementing a personal Assistant. Implementation is very basic
-PERSONAL ASSISTANT
-PRESENTED BY:
-REGD.NO                         NAME                             WORKDONE
-171205                      VISWANADH                        EVERNOTE.
-173218                      APPALA NARASSAYAA                CALENDER.
-173229                      AKHIL                            CONTACT MANAGMENT.
+personal assistant
+written by : viswanadh,appala narasayya and akhil.
 DESCRIPTION:
           
 
